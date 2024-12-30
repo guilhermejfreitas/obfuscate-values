@@ -1,0 +1,25 @@
+{
+  "name": "obfuscate-values",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermejfreitas/obfuscate-values.git"
+  },
+  "keywords": [
+    "obfuscate",
+    "logs",
+    "obfuscate-values",
+    "obfuscate-objets"
+  ],
+  "author": "Guilherme J F Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermejfreitas/obfuscate-values/issues"
+  },
+  "homepage": "https://github.com/guilhermejfreitas/obfuscate-values#readme",
+  "description": "Obfuscate values ​​of an object automatically by applying some rules, great for hiding sensitive information from logs."
+}
